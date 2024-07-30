@@ -19,6 +19,7 @@ The analysis was conducted using the following tools and technologies:
 SQL: For querying and manipulating data.
 Python: For data analysis and visualization, using libraries such as Pandas, Matplotlib, and Seaborn.
 Jupyter Notebook: For interactive data exploration and visualization.
+
 Key Insights
 Customer Reach & Distribution: Insights into customer locations and distribution across Brazil.
 Order Trends & Seasonal Peaks: Analysis of order patterns and peak seasons.
