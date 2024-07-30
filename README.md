@@ -12,24 +12,7 @@ geolocation.csv - Geographical data related to customer and seller locations.
 payments.csv - Information on payment methods and transaction values.
 orders.csv - Comprehensive order data, including timestamps and status.
 products.csv - Product attributes, including category information and descriptions.
-Project Structure
-css
-Copy code
-.
-├── data/
-│   ├── customers.csv
-│   ├── sellers.csv
-│   ├── order_items.csv
-│   ├── geolocation.csv
-│   ├── payments.csv
-│   ├── orders.csv
-│   ├── products.csv
-├── notebooks/
-│   ├── data_analysis.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── data_analysis.py
-├── README.md
+
 Tools Used
 The analysis was conducted using the following tools and technologies:
 
